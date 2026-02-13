@@ -1,2 +1,0 @@
-request-id,request-method,request-path,request-query,request-payload,response-status,response-content-type,response-payload,response-oops,pre-handle-timestamp,post-handle-timestamp,"after-completion-timestamp"
-"e4201415-9b9b-1c31-0f85-b55f0bb0db7d",GET,/any/system/welcome,,,200,text/html;charset=utf-8,,,1555933198162300,1555933391580600,1555945312956200
