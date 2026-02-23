@@ -30,3 +30,7 @@ nbdist/
 mvnw
 
 mvnw\.cmd
+
+target/classes/maven.properties
+target/classes/maven.properties
+target/classes/maven.properties
